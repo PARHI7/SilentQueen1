@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SilentQueen1
+- 👋 Hi, I’m Silent Queen
 - 👀 I’m interested in Artificial intelligence and Machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (SOON)
